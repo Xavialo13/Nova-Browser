@@ -1,0 +1,7 @@
+
+nova-browser/
+├── index.html
+├── netlify.toml
+└── netlify/
+    └── functions/
+        └── browse.mjs
